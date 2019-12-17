@@ -1,0 +1,41 @@
+newspaper, owner
+ZAMAN, Feza Publications
+POSTA, Demirören
+HÜRRİYET, Demirören
+SÖZCÜ, Burak Akbay
+SABAH, Turkuvaz
+HABERTÜRK, Ciner Holding
+P.FOTOMAÇ, Turkuvaz
+TÜRKİYE, İhlas Holding
+MİLLİYET, Demirören
+FANATİK, Demirören
+BUGÜN, Koza İpek Holding
+YENİ ŞAFAK, Albayrak
+TAKVİM, Turkuvaz
+AKŞAM, T Media
+VATAN, Demirören
+GÜNEŞ, T Media
+STAR, Star Media (?)
+TARAF, Başar Arslan (?)
+AYDINLIK, Şefik Hüsnü Değmer (?)
+CUMHURİYET, Cumhuriyet Vakfı
+YENİ ÇAĞ, Yeni Çağ Journalism and Printing (?)
+YENİ ASYA, Yeni Asya Journalism Printing and Publishing (Mehmet Kutlular)
+MİLLET, İleri Journalism
+YENİ AKİT, ‎Ramazan Fatih Uğurlu
+AMK, ‎Burak Akbay
+ŞOK, ABC Media Agency
+MİLLİ GAZETE, Yeni Neşriyat
+YURT, Ayna Journalism and Production
+MEYDAN, Feza Publishing (?)
+KORKUSUZ, Burak Akbay
+MİLAT, MEKA Journalism
+YENİ YÜZYIL, Mansur Topçuoğlu
+İSTİKLAL, Hüseyin Arif Çakmak
+YARINA BAKIŞ, Feza Publications (?)
+KARAR, Karar Publications
+ÖZGÜR DÜŞÜNCE, Feza Publications (?)
+YENİ HAYAT, Feza Publications (?)
+DOĞRU HABER, Doğru Print and Publishing
+YENİ ASIR, Turkuvaz
+YENİ BİRLİK, Ufuk Journalism
