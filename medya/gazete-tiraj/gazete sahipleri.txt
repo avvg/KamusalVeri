@@ -1,41 +1,41 @@
-newspaper, owner
-ZAMAN, Feza Publications
-POSTA, Demirören
-HÜRRİYET, Demirören
-SÖZCÜ, Burak Akbay
-SABAH, Turkuvaz
-HABERTÜRK, Ciner Holding
-P.FOTOMAÇ, Turkuvaz
-TÜRKİYE, İhlas Holding
-MİLLİYET, Demirören
-FANATİK, Demirören
-BUGÜN, Koza İpek Holding
-YENİ ŞAFAK, Albayrak
-TAKVİM, Turkuvaz
-AKŞAM, T Media
-VATAN, Demirören
-GÜNEŞ, T Media
-STAR, Star Media (?)
-TARAF, Başar Arslan (?)
-AYDINLIK, Şefik Hüsnü Değmer (?)
-CUMHURİYET, Cumhuriyet Vakfı
-YENİ ÇAĞ, Yeni Çağ Journalism and Printing (?)
-YENİ ASYA, Yeni Asya Journalism Printing and Publishing (Mehmet Kutlular)
-MİLLET, İleri Journalism
-YENİ AKİT, ‎Ramazan Fatih Uğurlu
-AMK, ‎Burak Akbay
-ŞOK, ABC Media Agency
-MİLLİ GAZETE, Yeni Neşriyat
-YURT, Ayna Journalism and Production
-MEYDAN, Feza Publishing (?)
-KORKUSUZ, Burak Akbay
-MİLAT, MEKA Journalism
-YENİ YÜZYIL, Mansur Topçuoğlu
-İSTİKLAL, Hüseyin Arif Çakmak
-YARINA BAKIŞ, Feza Publications (?)
-KARAR, Karar Publications
-ÖZGÜR DÜŞÜNCE, Feza Publications (?)
-YENİ HAYAT, Feza Publications (?)
-DOĞRU HABER, Doğru Print and Publishing
-YENİ ASIR, Turkuvaz
-YENİ BİRLİK, Ufuk Journalism
+newspaper,owner,status
+ZAMAN,Feza Publications,destekçi
+POSTA,Demirören,destekçi
+HÜRRİYET,Demirören,destekçi
+SÖZCÜ,Burak Akbay,muhalif
+SABAH,Turkuvaz,destekçi
+HABERTÜRK,Ciner Holding,destekçi
+P.FOTOMAÇ,Turkuvaz,destekçi
+TÜRKİYE,İhlas Holding,destekçi
+MİLLİYET,Demirören,destekçi
+FANATİK,Demirören,destekçi
+BUGÜN,Koza İpek Holding,destekçi
+YENİ ŞAFAK,Albayrak,destekçi
+TAKVİM,Turkuvaz,destekçi
+AKŞAM,T Media,destekçi
+VATAN,Demirören,destekçi
+GÜNEŞ,T Media,destekçi
+STAR,Star Media (?),destekçi
+TARAF,Başar Arslan (?),muhalif
+AYDINLIK,Şefik Hüsnü Değmer (?),muhalif
+CUMHURİYET,Cumhuriyet Vakfı,muhalif
+YENİ ÇAĞ,Yeni Çağ Journalism and Printing (?),destekçi
+YENİ ASYA,Yeni Asya Journalism Printing and Publishing (Mehmet Kutlular),destekçi
+MİLLET,İleri Journalism,destekçi
+YENİ AKİT,‎Ramazan Fatih Uğurlu,destekçi
+AMK,‎Burak Akbay,muhalif
+ŞOK,ABC Media Agency,destekçi
+MİLLİ GAZETE,Yeni Neşriyat,destekçi
+YURT,Ayna Journalism and Production,destekçi
+MEYDAN,Feza Publishing (?),destekçi
+KORKUSUZ,Burak Akbay,muhalif
+MİLAT,MEKA Journalism,destekçi
+YENİ YÜZYIL,Mansur Topçuoğlu,destekçi
+İSTİKLAL,Hüseyin Arif Çakmak,destekçi
+YARINA BAKIŞ,Feza Publications (?),destekçi
+KARAR,Karar Publications,destekçi
+ÖZGÜR DÜŞÜNCE,Feza Publications (?),destekçi
+YENİ HAYAT,Feza Publications (?),destekçi
+DOĞRU HABER,Doğru Print and Publishing,destekçi
+YENİ ASIR,Turkuvaz,destekçi
+YENİ BİRLİK,Ufuk Journalism,destekçi
